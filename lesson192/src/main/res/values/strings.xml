@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Шифрование SHA256</string>
+    <string name="errorThrow">Ошибка</string>
+    <string name="Tittle">Зашифровать строку</string>
+    <string name="enterString">Введите строку</string>
+    <string name="enterAdditional">Введите добавочную строку</string>
+    <string name="encryptedString">Зашифрованная строка:</string>
+    <string name="btnCrypt">Зашифровать</string>
+    <string name="toastErrString">Введите строку для шифрования</string>
+    <string name="toastErrAdditional">Введите добавочную строку</string>
+</resources>
