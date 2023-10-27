@@ -170,3 +170,7 @@ public void onClick(View v) {
 - __duration__ – продолжительность показа ([__Toast.LENGTH_LONG__](http://developer.android.com/reference/android/widget/Toast.html#LENGTH_LONG) - длинная, [__Toast.LENGTH_SHORT__](http://developer.android.com/reference/android/widget/Toast.html#LENGTH_SHORT) - короткая)
 
 [Toast](http://developer.android.com/reference/android/widget/Toast.html) создан и чтобы он отобразился на экране, вызывается метод __show()__. Сохраняем, запускаем, проверяем.
+
+---
+
+#### [Источник](https://startandroid.ru/ru/uroki/vse-uroki-spiskom/19-urok-12-logi-i-vsplyvajuschie-soobschenija.html)

@@ -69,3 +69,7 @@ public class MainActivity extends Activity {
 ```
 
 Определять нажатый пункт меню по тексту – это не самый лучший вариант. Далее будем делать это по __ID__. Но для этого надо немного по другому создавать меню.
+
+---
+
+#### [Источник](https://startandroid.ru/ru/uroki/vse-uroki-spiskom/45-urok-13-sozdanie-prostogo-menju.html)

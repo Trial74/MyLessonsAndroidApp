@@ -160,3 +160,7 @@ btnCancel.setOnClickListener(oclBtnCancel);
 Давайте еще раз проговорим механизм обработки событий на примере нажатия кнопки. Сама кнопка обрабатывать нажатия не умеет, ей нужен обработчик (его также называют слушателем - listener), который присваивается с помощью метода setOnClickListener. Когда на кнопку нажимают, обработчик реагирует и выполняет код из метода onClick. Это можно изобразить так:
 
 ![Image alt](https://lh3.googleusercontent.com/-CnLJa0Ou9-g/Tk9wA9KY26I/AAAAAAAAAOs/EG89rGEWaVs/s800/20110820_L0009_L_ListenerSchema.JPG)
+
+---
+
+#### [Источник](https://startandroid.ru/ru/uroki/vse-uroki-spiskom/16-urok-9-obrabotchiki-sobytij-na-primere-button.html)

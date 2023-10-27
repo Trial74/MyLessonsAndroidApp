@@ -157,4 +157,6 @@ public class MainActivity extends Activity {
 }
 ```
 
+---
+
 #### [Источник](https://startandroid.ru/ru/uroki/vse-uroki-spiskom/49-16-layoutparams.html)
